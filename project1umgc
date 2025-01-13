@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World Page</title>
+</head>
+<body>
+    <h1>HELLO WORLD</h1>
+    <p>"The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt</p>
+    <img src="https://images.squarespace-cdn.com/content/v1/5bec669f9f877016e7212b2d/6de17e98-fd39-4fcb-a660-fcfcd68702d8/UMGC.png" alt="UMGC Logo">
+</body>
+</html>
