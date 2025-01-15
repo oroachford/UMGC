@@ -1,2 +1,0 @@
-# UMGC
-Web Design I
